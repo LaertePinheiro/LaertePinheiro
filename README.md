@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá, eu sou o Laerte Pinheiro 😎
 
-<!--
-**LaertePinheiro/LaertePinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+No momento estou focando em estudar progamação e aprender novas linguagens para o meu crescimento pessoal🚀
+<br>
+### Linguagens e Ferramentas:
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="60px" height="20px"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="60px" height="20px"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=whit" width="60px" height="20px"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="60px" height="20px"/>
+</p>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<strong><p>Talk to me:</p></strong>
+<p>
+  <a href="https://www.linkedin.com/in/laerte-pinheiro-74b83b267/"><img src="https://logodownload.org/wp-content/uploads/2019/03/linkedin-logo.png" widht="15px" height="15px"/></a>  
+</p>
+<br>
